@@ -1,3 +1,14 @@
+# ZyGrib GRIB File Viewer Weather data visualization
+Is it going to be windy on the weekend?
+
+![Image](SampleAnimation.gif?raw=true)
+
+Many datasources from NOAA-GFS, FNMOC-WW3 covers the entire globe
+
+![Image](SourceFeatures.gif?raw=true)
+
+Perfect for marine related weather (excellent waves and wind section)
+
 # zyGrib_compile_in_Ubuntu19.04
 Updated instructions for compiling zyGrib, this excellent GRIB File Viewer Weather data visualization; in a 19.04 desktop Ubuntu. check https://www.zygrib.org/
 
